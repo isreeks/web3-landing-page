@@ -1,6 +1,5 @@
 import reactLogo from '@/assets/logo.svg'
 import { Button } from '../ui/button'
-import { X } from 'lucide-react'
 import Sidebar from './Sidebar'
 
 const Navbar = () => {
